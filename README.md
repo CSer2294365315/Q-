@@ -5,3 +5,4 @@ Java资源大全中文版
 https://www.cnblogs.com/softidea/p/6131763.html
 #2  java 知识分享网 里面有很多java项目 http://www.java1234.com
 #3 leetcode 题解博客 http://www.cnblogs.com/grandyang/category/625406.html
+#4 服务端开发 介绍 https://www.jianshu.com/p/814d05ddb54a
