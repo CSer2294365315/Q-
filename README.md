@@ -13,3 +13,4 @@ https://www.cnblogs.com/softidea/p/6131763.html
 # https://www.imooc.com/article/23456?block_id=tuijian_wz 阿里Android社招面试题,全部都是高级特性
 #http://blog.csdn.net/u011958281/article/details/77050966 2017年阿里巴巴Java开发工程师面试总结 面试官会针对他们公司用到的技术进行提问,所以,如果做项目的话,要针对所想要去的公司的技术栈,进行有针对性的练习
 # http://download.csdn.net/download/u011958281/9949627 阿里的演变史 csdn 未下载
+##http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html  mybatis中文手册
