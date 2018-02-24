@@ -16,4 +16,4 @@ https://www.cnblogs.com/softidea/p/6131763.html
 ##http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html  mybatis中文手册
 ## Intellij mac 快捷键:跳转到单词的首尾部(一次跳一个单词) option(alt) + 左右键
 ## Intellij mac :一次性选择的一个单词, option + shift + 左右键 ,如果想要选择多个单词,或者选择某一行,可 以按多次方向键
-
+## 书单推荐:http://www.iocoder.cn/Architecture/books-recommended/?jianshu&407
